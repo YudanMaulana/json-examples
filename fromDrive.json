@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "judul": "Belajar React",
+      "subJudul": "Komponen Dasar",
+      "isi": "React adalah pustaka JavaScript untuk membangun antarmuka pengguna. Komponen adalah bagian utama dari React."
+    },
+    {
+      "id": 2,
+      "judul": "Belajar JavaScript",
+      "subJudul": "Async/Await",
+      "isi": "Async/await adalah cara modern untuk menangani operasi asynchronous di JavaScript dengan lebih mudah."
+    },
+    {
+      "id": 3,
+      "judul": "Pemrograman Mobile",
+      "subJudul": "Expo Framework",
+      "isi": "Expo adalah framework yang mempermudah pengembangan aplikasi mobile menggunakan React Native."
+    },
+    {
+      "id": 4,
+      "judul": "Tips Produktivitas",
+      "subJudul": "Manajemen Waktu",
+      "isi": "Gunakan teknik seperti Pomodoro untuk meningkatkan fokus dan efisiensi saat bekerja."
+    }
+  ]
+  
